@@ -8,7 +8,7 @@ First, we will create an AWS EC2 instance and install Jenkins on it. We will the
 
 ### Process Flow:
 
-![Project Diagram](https://github.com/ahsan598/devops-project-2/blob/main/JenkinsSonarqubeDocker.png)
+![Project Diagram](https://github.com/ahsan598/deploying-website-using-jenkins/blob/main/JenkinsSonarqubeDocker.png)
 
 
 The below steps will outline the process of deploying a website using Jenkins, Docker, SonarQube, GitHub, and EC2. By following these steps, we can set up a continuous integration and continuous deployment (CI/CD) pipeline that automates the entire deployment process, from code commit to production deployment. This ensures a streamlined, efficient, and reliable deployment pipeline for our web application.
